@@ -4,6 +4,15 @@ A Python-based Messenger
 ## What is PyChat? 
 PyChat is a messenger written in Python 2.7 and utilizes TKinter for its GUI. This uses User Data Protocol or UDP as its connection method. It's intended to be multiplatform but since this some libs that only works for Windows (pywin32), this works only on Windows for now (you can remove pywin32 stuffs and replace it with other libs or remove it completely from the code to make it work on other platforms thou...).
 
+##Features
+PyChat has the following features:
+- User Data Protocol (UDP) as its connection method 
+- Group chat 
+- Shows online members/clients 
+- Profanity Filter (Because swearing is bad :( ) 
+- Notification sounds (SQUEE!!! XD ) 
+- Window Alert (Yellow flashing thingy on taskbar? Anyone?) 
+
 ## Prerequesites
 PyChat requires the following libs: 
 - Python 2.7

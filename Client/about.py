@@ -23,7 +23,7 @@ class About:
         self.label3 = Label(self.root, text="Follow me on FB: fb.com/MrChezco1995r2", font=("Segoe UI", 12), fg="Black")
         self.label3.place(x=13, y=212)
 
-        self.label4 = Label(self.root, text="Sub to my YouTube Channels down below:", font=("Segoe UI", 12), fg="Black")
+        self.label4 = Label(self.root, text="Sub to my YouTube Channels down below", font=("Segoe UI", 12), fg="Black")
         self.label4.place(x=13, y=242)
 
         self.label5 = Label(self.root, text="youtube.com/user/mrchezco1995", font=("Segoe UI", 12), fg="Black")
